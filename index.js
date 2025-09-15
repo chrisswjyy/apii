@@ -217,7 +217,7 @@ app.post('/api/create-panel', verifySession, async (req, res) => {
 
         const usernameLower = username.toLowerCase();
         const email = usernameLower + "@gmail.com";
-        const name = capitalize(usernameLower) + " @Clairity";
+        const name = capitalize(usernameLower) + " @chrisreseller";
         const password = usernameLower + "123";
 
         console.log('Creating user with:', {
