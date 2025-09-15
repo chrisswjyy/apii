@@ -12,7 +12,7 @@ const VALID_TOKENS = {
     'chris-token-2024': { username: 'Chris', role: 'admin' },
     'admin-token-secure': { username: 'Admin', role: 'admin' },
     'super-admin-xyz': { username: 'SuperAdmin', role: 'superadmin' },
-    'xziyy1153': { username: 'ziyy', role: 'admin' },
+    'xziyy1153': { username: 'ziyy', role: 'admin' }
 };
 
 // Active sessions storage
