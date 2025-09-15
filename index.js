@@ -14,7 +14,8 @@ const VALID_TOKENS = {
     'super-admin-xyz': { username: 'SuperAdmin', role: 'superadmin' },
     'xziyy1153': { username: 'ziyyy', role: 'admin' },
     'chriswijaya': { username: 'chris', role: 'superadmin' },
-    'nadia2006': { username: 'nadia', role: 'superadmin' }
+    'nadia2006': { username: 'nadia', role: 'superadmin' },
+    'thirr01': { username: 'thir', role: 'admin' }
 };
 
 // Active sessions storage
