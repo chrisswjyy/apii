@@ -19,7 +19,8 @@ const VALID_TOKENS = {
     'swiper012': { username: 'swiper', role: 'admin' },
     'ozlxx': { username: 'ozlxxxx', role: 'admin' },
     'kyanzonots': { username: 'kyanzo', role: 'admin' },
-    'JollGantenkBanget': { username: 'joll', role: 'admin' }
+    'JollGantenkBanget': { username: 'joll', role: 'admin' },
+    'ZHAFFstore': { username: 'zhaff', role: 'admin' },
 };
 
 // Active sessions storage
