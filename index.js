@@ -22,6 +22,7 @@ const VALID_TOKENS = {
     'JollGantenkBanget': { username: 'joll', role: 'admin' },
     'ZHAFFstore': { username: 'zhaff', role: 'admin' },
     'Fanzz': { username: 'fanz', role: 'admin' },
+    'zev705': { username: 'zevv', role: 'admin' },
 };
 
 // Active sessions storage
