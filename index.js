@@ -24,6 +24,7 @@ const VALID_TOKENS = {
     'Fanzz': { username: 'fanz', role: 'admin' },
     'zev705': { username: 'zevv', role: 'admin' },
     'zxuan99': { username: 'zaskaiheuning', role: 'admin' },
+    'GPP4YOU': { username: 'GPP4YOU', role: 'admin' },
 };
 
 // Active sessions storage
