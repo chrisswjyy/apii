@@ -42,8 +42,8 @@ app.get('/', (req, res) => {
 
 // CONFIG - Sesuaikan dengan pengaturan Anda
 const settings = {
-    domain: 'https://chrisprivat.biz.id',
-    apikey: 'ptla_yiJtQVtigY34eTy8ijMbGaHVcx0FUqdAN2bQAfSuUWo',
+    domain: 'https://chrissoffc.my.id',
+    apikey: 'ptla_tJvw6DK1YYDyvrmF5EZT6ATGpYfoXVnwep8oOAGONL5',
     nestid: '5',
     egg: '15',
     loc: '1'
