@@ -42,7 +42,7 @@ app.get('/', (req, res) => {
 
 // CONFIG - Sesuaikan dengan pengaturan Anda
 const settings = {
-    domain: 'https://christify.my.id,
+    domain: 'https://christifyu.my.id,
     apikey: 'ptla_XRuanhNRiHXVZuEQWLp3UcKNqJ5ljaZP5tEmTaLKHq1',
     nestid: '5',
     egg: '15',
