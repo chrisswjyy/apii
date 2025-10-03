@@ -42,8 +42,8 @@ app.get('/', (req, res) => {
 
 // CONFIG - Sesuaikan dengan pengaturan Anda
 const settings = {
-    domain: 'https://christify.my.id',
-    apikey: 'ptla_XRuanhNRiHXVZuEQWLp3UcKNqJ5ljaZP5tEmTaLKHq1',
+    domain: 'https://chriswijaya.biz.id',
+    apikey: 'ptla_f6rkTmkULOEZv3NwnqDXTz9bTVX7LVOHf1NzR1VJQG0',
     nestid: '5',
     egg: '15',
     loc: '1'
